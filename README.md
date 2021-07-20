@@ -1,5 +1,7 @@
 Predicting_Pass_or_Fail_of_semiconductor_fabrication
 
+Dataset from UCI-secom
+
 LightGMB
 
 ![qq](https://user-images.githubusercontent.com/39429635/126255692-6defdb21-9772-4c10-b715-11f0bb54edc6.png)
